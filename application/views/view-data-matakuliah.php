@@ -19,21 +19,21 @@
                 <th>Kode MTK</th>
                 <th>:</th>
                 <td>
-                    <?= $kode; ?>
+                <?= $kode; ?>
                 </td>
             </tr>
             <tr>
                 <td>Nama MTK</td>
                 <td>:</td>
                 <td>
-                    <?= $nama; ?>
+                <?= $nama; ?>
                 </td>
             </tr>
             <tr>
                 <td>SKS</td>
                 <td>:</td>
                 <td>
-                    <?= $sks; ?>
+                <?= $sks; ?>
                 </td>
             </tr>
             <tr>
